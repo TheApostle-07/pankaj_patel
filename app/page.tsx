@@ -21,7 +21,6 @@ import {
   Flame,
   Activity,
   Dumbbell,
-  Stopwatch,
 } from "lucide-react";
 
 // --------------------------------------------------
